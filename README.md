@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandanthota75" alt="chandanthota75" /></a> </p>
 
-- 🔭 I’m currently Studying in my Pre-Final Year at [VIT Bhopal as a Computational and Data Sciences Student](https://vitbhopal.ac.in/)
+- 🔭 I’m currently Studying in my Final Year at [VIT Bhopal as a Computational and Data Sciences Student](https://vitbhopal.ac.in/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/chandanthota75?tab=repositories](https://github.com/chandanthota75?tab=repositories)
 
