@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Chandan Thota</h1>
-<h3 align="center">Passionate Data Explorer from the Heart of India 🌍 | Transforming Data into Insights | Aspiring Data Scientist on a Journey of Learning and Growth 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanthota75&label=Profile%20views&color=0e75b6&style=flat" alt="chandanthota75" /> </p>
 
